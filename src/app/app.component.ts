@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'property-binding-img-size';
+  w = 500;
+  h = 300;
 }
